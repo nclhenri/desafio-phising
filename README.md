@@ -1,21 +1,33 @@
-# Phishing para captura de senhas do Facebook
+# Phishing Lab — SEToolkit + Kali Linux
 
-### Ferramentas
+> ⚠️ **Projeto exclusivamente educacional e para uso em ambiente controlado.**
 
-- Kali Linux
-- setoolkit
+Este repositório documenta um laboratório de estudos sobre **Phishing e Engenharia Social**, realizado utilizando o **Kali Linux** e o **SEToolkit (Social-Engineer Toolkit)**.
 
-### Configurando o Phishing no Kali Linux
+O objetivo do projeto é compreender, de forma prática, como ataques de engenharia social podem utilizar páginas visualmente semelhantes a serviços conhecidos para induzir usuários ao erro.
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+---
 
-### Resutados
+## 🎯 Objetivo
 
-![Alt text](./passwd.png "Optional title")
+Este laboratório foi criado com o objetivo de estudar:
+
+-  Engenharia Social
+-  Phishing
+-  Funcionamento de páginas web
+-  Kali Linux
+-  SEToolkit
+-  Identificação de riscos em páginas falsas
+
+A principal diferença em relação ao material de referência utilizado para estudo foi a utilização do recurso **Web Template**, criando uma página de demonstração baseada visualmente em uma interface do **Google**, em vez do cenário apresentado originalmente.
+
+---
+
+## 🧰 Ferramentas utilizadas
+
+- 🐉 Kali Linux
+- 🛠️ Social-Engineer Toolkit (SEToolkit)
+- 🌐 Web Template
+- 💻 Ambiente virtualizado para testes
+
+---
