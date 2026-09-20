@@ -26,10 +26,10 @@ A principal diferença em relação ao material de referência utilizado para es
 ## 🧰 Ferramentas utilizadas
 
 - 🐉 Kali Linux
-
-- <img width="1560" height="419" alt="Capturar" src="https://github.com/user-attachments/assets/a55d0da0-bfa7-4182-9330-519d5ed5a10c" />
 - 🛠️ Social-Engineer Toolkit (SEToolkit)
 - 🌐 Web Template
 - 💻 Ambiente virtualizado para testes
 
+
+<img width="1560" height="419" alt="Capturar" src="https://github.com/user-attachments/assets/a55d0da0-bfa7-4182-9330-519d5ed5a10c" />
 ---
